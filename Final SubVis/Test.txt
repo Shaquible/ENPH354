@@ -1,0 +1,3 @@
+Group # 2023-03-23 3:38 PM
+Isc = NaN, Voc =NaN, FF= NaN, Rs =NaN, Rsh = NaN, n = 0.000000E+0
+Voltage (V), Current (A), Luminance (CD/m2)
