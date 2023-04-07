@@ -1,0 +1,4 @@
+Circuit: * D:\Documents\3rd year\ENPH 354\ENPH354\simulations\Final Circuit Diagram.asc
+
+Fatal Error: Unknown subcircuit called in:
+   xpwm_buffer n005 n002 15v -15v n002 opamp2

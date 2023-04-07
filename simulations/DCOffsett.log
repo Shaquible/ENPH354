@@ -1,21 +1,70 @@
-Circuit: * D:\Documents\3rd year\ENPH 354\ENPH354\DCOffsett.asc
+Circuit: * D:\Documents\3rd year\ENPH 354\ENPH354\simulations\DCOffsett.asc
 
-Direct Newton iteration for .op point succeeded.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 1.08884
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 1.03523
+vernier = 0.0078125
+vernier = 0.0104167
+vernier = 0.00520833
+Gmin = 1.02119
+vernier = 0.00260417
+Gmin = 1.01391
+vernier = 0.00347222
+vernier = 0.00173611
+vernier = 0.00231481
+vernier = 0.00115741
+Gmin = 1.01142
+vernier = 0.00154321
+vernier = 0.000771604
+Gmin = 1.00928
+vernier = 0.00102881
+vernier = 0.000514403
+Gmin = 1.00759
+vernier = 0.00068587
+vernier = 0.000514403
+Gmin = 1.00638
+vernier = 0.00068587
+vernier = 0.000514402
+Gmin = 0
+Gmin = 0
+Gmin stepping failed
 
-Date: Sat Mar 04 20:16:47 2023
-Total elapsed time: 6.408 seconds.
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+vernier = 0.25
+Source Step = 92.6136%
+Source Step = 94.5076%
+Source Step = 96.4015%
+Source Step = 98.2955%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Wed Apr 05 23:19:09 2023
+Total elapsed time: 0.275 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 1005041
-traniter = 1005030
-tranpoints = 502516
-accept = 405016
-rejected = 97500
-matrix size = 73
-fillins = 78
+totiter = 27216
+traniter = 20048
+tranpoints = 10025
+accept = 10024
+rejected = 1
+matrix size = 40
+fillins = 44
 solver = Normal
-Matrix Compiler1: 7.16 KB object code size  1.6/0.7/[0.5]
-Matrix Compiler2: 7.32 KB object code size  0.6/0.8/[0.6]
+Matrix Compiler1: 3.69 KB object code size  0.7/0.3/[0.2]
+Matrix Compiler2: 3.92 KB object code size  0.3/0.4/[0.2]
 
